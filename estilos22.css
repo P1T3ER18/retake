@@ -1,0 +1,11 @@
+*{
+    margin: auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 75%;
+    border:5px solid red;
+    border-radius: 10px;
+    text-align: center;
+}
